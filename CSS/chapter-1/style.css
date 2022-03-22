@@ -1,0 +1,15 @@
+*{
+
+  padding: 0;
+  margin: 0;
+
+}
+#first{
+    background-color: aqua;
+}
+
+.blue-bg{
+
+  background-color: blue;
+  color: white;
+}
